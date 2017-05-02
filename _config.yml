@@ -1,12 +1,3 @@
-colors:
-  brandColors:
-    - 'hsl(0,0%,100%)'
-    - 'hsl(0,0%,80%)'
-    - 'hsl(0,0%,60%)'
-    - 'hsl(0,0%,30%)'
-    - 'hsl(0,0%,20%)'
-name: ' '
-layout_spectrum: 0.022086442913860083
 typography_spectrum: 0.24689484434202313
 color:
   brandStrength: 0.382430074037984
@@ -19,16 +10,29 @@ color:
     - '#EFECCA'
     - '#046380'
     - '#002F2F'
-content: []
-url: 'https://www.erikpedia.science'
+github: true
+layout_spectrum: 0.022086442913860083
 author:
   name: Erik Holtan
   email: erik.holtan@gmail.com
   url: 'https://erikpedia.science'
-title: Erikpedia
-description: 'It''s not science, it''s Erikpedia'
-github: true
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/29685e97-1d0d-4094-931b-8c2fa20649cc.png
+name: Erikpedia
+url: 'https://www.erikpedia.science'
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+navigation:
+  - name: About
+    id: 7e9698ea-344c-4e3c-94d5-b9a53cee659b
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8887931d-2695-4d2b-89ab-23606455e24c.png
+title: Erikpedia
+content: []
+description: 'It''s not science, it''s Erikpedia'
