@@ -4,8 +4,8 @@ description: >-
   Here we will disprove common misconceptions with information that is loosely
   based on fact. My goal is to, at the very least, create more common
   misconceptions that are even more damaging to society.
-dateModified: '2017-05-02T23:39:56.566Z'
-datePublished: '2017-05-02T23:39:57.059Z'
+dateModified: '2017-05-02T23:40:17.301Z'
+datePublished: '2017-05-02T23:40:17.828Z'
 title: Welcome to Erikpedia
 author: []
 publisher: {}
