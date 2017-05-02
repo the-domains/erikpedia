@@ -4,8 +4,8 @@ description: >-
   Here we will disprove common misconceptions with information that is loosely
   based on fact. My goal is to, at the very least, create more common
   misconceptions that are even more damaging to society.
-dateModified: '2017-05-02T23:40:17.301Z'
-datePublished: '2017-05-02T23:40:17.828Z'
+dateModified: '2017-05-02T23:42:33.461Z'
+datePublished: '2017-05-02T23:42:34.108Z'
 title: Welcome to Erikpedia
 author: []
 publisher: {}
@@ -21,7 +21,7 @@ _type: Article
 # Welcome to Erikpedia
 
 ## It's not Science, It's Erikpedia
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3212d18d-a3b1-4388-811b-b1c89a516117.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8be74430-e0f5-40df-a31b-41c1a5a602d4.png)
 
 Here we will disprove common misconceptions with information that is loosely based on fact. My goal is to, at the very least, create more common misconceptions that are even more damaging to society.
 
