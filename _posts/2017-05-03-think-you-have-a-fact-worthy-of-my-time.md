@@ -1,19 +1,19 @@
 ---
 publisher: {}
-dateModified: '2017-05-03T05:36:30.050Z'
+dateModified: '2017-05-03T05:43:21.069Z'
 description: >-
   Then I invite you to submit your mesmerizing fact to the collective knowledge
   known as Erikpedia.
 via: {}
 sourcePath: _posts/2017-05-03-think-you-have-a-fact-worthy-of-my-time.md
-isBasedOnUrl: >-
-  https://the-grid.github.io/ed-userhtml/?g=eJw9j10LgjAYhf-K7N7NTFOiFQVFH95IUNhNTPe2jVqLOZP-ffZ5-RzOOZwzUifLNHi1rSiSzt3qISHcVDUWxogL4MpocjJW14QTIL3FdHXLs211mC-nLvKPLN9ETSTLmd_E4a5YJ6F6sGIXuL1T677cmnOa-nFO7graV80EdAmcA6fONoC8VnEnKUoGAfIkKCEdRXHQwXtWaSwHS1HHmlmhrj_LX_jmAzTODOPqKjDGI_I5NX4CNYJJhw
 title: Think you have a fact worthy of my time?
-inFeed: true
+inFeed: false
 author: []
-datePublished: '2017-05-03T05:42:15.624Z'
+datePublished: '2017-05-03T05:43:21.999Z'
+hasPage: true
 starred: true
 datePublishedOriginal: '2017-05-03T05:42:15.624Z'
+url: think-you-have-a-fact-worthy-of-my-time/index.html
 _type: MediaObject
 
 ---
