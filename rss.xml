@@ -4,15 +4,22 @@
         <description><![CDATA[Erikpedia]]></description>
         <link>http://erikpedia.science/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 May 2017 05:34:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2017 05:34:58 GMT</lastBuildDate>
         <atom:link href="http://erikpedia.science/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 03 May 2017 05:34:46 GMT</pubDate>
+        <pubDate>Wed, 03 May 2017 05:34:57 GMT</pubDate>
         <item>
             <title><![CDATA[Think you have a fact worthy of my time?]]></title>
             <description><![CDATA[<h1>Think you have a fact worthy of my time?</h1>,<h2>Do you have a fact so good, so unbelievable, and so misunderstood that any regular person would think it's a lie?</h2>,<p>Then I invite you to submit your mesmerizing fact to the collective knowledge known as Erikpedia.</p>,<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9j10LgjAYhf-K7N7NTFOiFQVFH95IUNhNTPe2jVqLOZP-ffZ5-RzOOZwzUifLNHi1rSiSzt3qISHcVDUWxogL4MpocjJW14QTIL3FdHXLs211mC-nLvKPLN9ETSTLmd_E4a5YJ6F6sGIXuL1T677cmnOa-nFO7graV80EdAmcA6fONoC8VnEnKUoGAfIkKCEdRXHQwXtWaSwHS1HHmlmhrj_LX_jmAzTODOPqKjDGI_I5NX4CNYJJhw" height="500"></iframe>]]></description>
             <link>https://the-grid.github.io/ed-userhtml/?g=eJw9j10LgjAYhf-K7N7NTFOiFQVFH95IUNhNTPe2jVqLOZP-ffZ5-RzOOZwzUifLNHi1rSiSzt3qISHcVDUWxogL4MpocjJW14QTIL3FdHXLs211mC-nLvKPLN9ETSTLmd_E4a5YJ6F6sGIXuL1T677cmnOa-nFO7graV80EdAmcA6fONoC8VnEnKUoGAfIkKCEdRXHQwXtWaSwHS1HHmlmhrj_LX_jmAzTODOPqKjDGI_I5NX4CNYJJhw</link>
             <guid isPermaLink="false">88db2ac0-0777-4fe9-82f8-5cad5f05a607</guid>
             <pubDate>Wed, 03 May 2017 05:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Welcome to Erikpedia]]></title>
+            <description><![CDATA[<h1>Welcome to Erikpedia</h1>,<h2>It’s not Science, It’s Erikpedia</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8be74430-e0f5-40df-a31b-41c1a5a602d4.png" title="Erikpedia">,<p>Here we will disprove common misconceptions with information that is loosely based on fact. My goal is to, at the very least, create more common misconceptions that are even more damaging to society.</p>,<p>Some of these articles will be facts, but don’t expect real sources. Others will be completely made up. The only way to be sure will be to conduct your own research.</p>]]></description>
+            <link>http://erikpedia.science/welcome-to-erikpedia/index.html</link>
+            <guid isPermaLink="false">7e9698ea-344c-4e3c-94d5-b9a53cee659b</guid>
+            <pubDate>Wed, 03 May 2017 05:34:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
