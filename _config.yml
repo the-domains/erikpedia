@@ -1,9 +1,10 @@
-typography_spectrum: 0.24689484434202313
+layout_spectrum: 0.6381237010625513
+typography_spectrum: 0.24385510444521238
 color:
-  brandStrength: 0.382430074037984
-  lightness: 0.024284587241709232
-  saturation: 0.8147250860929489
-  rhythmicContrast: 0.27349442709237337
+  brandStrength: 0.25062462769559407
+  lightness: 0.3752187543887977
+  saturation: 0.44761628922738944
+  rhythmicContrast: 0.5285086033006411
   brandColors:
     - '#E6E2AF'
     - '#A7A37E'
@@ -11,7 +12,6 @@ color:
     - '#046380'
     - '#002F2F'
 github: true
-layout_spectrum: 0.022086442913860083
 author:
   name: Erik Holtan
   email: erik.holtan@gmail.com
@@ -52,7 +52,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
