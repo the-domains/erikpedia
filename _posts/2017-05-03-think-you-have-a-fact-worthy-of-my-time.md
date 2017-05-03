@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-05-03T05:46:28.614Z'
+dateModified: '2017-05-03T05:47:33.509Z'
 description: >-
   Then I invite you to submit your mesmerizing fact to the collective knowledge
   known as Erikpedia.
@@ -9,7 +9,7 @@ sourcePath: _posts/2017-05-03-think-you-have-a-fact-worthy-of-my-time.md
 title: Think you have a fact worthy of my time?
 inFeed: false
 author: []
-datePublished: '2017-05-03T05:46:29.012Z'
+datePublished: '2017-05-03T05:47:34.116Z'
 hasPage: true
 starred: true
 datePublishedOriginal: '2017-05-03T05:42:15.624Z'
@@ -23,4 +23,4 @@ _type: MediaObject
 
 Then I invite you to submit your mesmerizing fact to the collective knowledge known as Erikpedia.
 
-    https://docs.google.com/forms/d/e/1FAIpQLScZEHAt4-_aQK4u4hbB-u52VYJ72iyaYV0tWtiJ3hSok88-5Q/viewform?usp=sf_link
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJw9j8GKwjAURX-lBFw2ibVlRIyiMMPouCmCUjeSNq9JGGMkeVX8-xkrujyHy-XeqW2DdJDE0AhiEC9xwpjyTaTae30C2njHWh9cZIoBG34tVpdys20On98LzNOjLH_yLjf1Mu2KbFetPzJ7l9WO4x7temS2_nc8TouSXS3cHjVzcDUoBUpg6IAkBqw2KEjBOUn6KbUPCoIg_-xk0Pb8irzFzSo0PUe8n0CQXkyGnA_IbOOlsmdNKZ2y57fZH2-QTAs" height="500" style=""></iframe>
