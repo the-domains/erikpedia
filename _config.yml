@@ -1,4 +1,3 @@
-layout_spectrum: 0.6381237010625513
 typography_spectrum: 0.24385510444521238
 color:
   brandStrength: 0.25062462769559407
@@ -12,6 +11,7 @@ color:
     - '#046380'
     - '#002F2F'
 github: true
+layout_spectrum: 0.6381237010625513
 author:
   name: Erik Holtan
   email: erik.holtan@gmail.com
@@ -31,6 +31,9 @@ navigation:
   - name: About
     id: 7e9698ea-344c-4e3c-94d5-b9a53cee659b
     type: content
+  - name: Submit a Fact
+    id: 88db2ac0-0777-4fe9-82f8-5cad5f05a607
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8887931d-2695-4d2b-89ab-23606455e24c.png
 title: Erikpedia
@@ -43,19 +46,19 @@ content:
     src: >-
       https://the-grid-user-content.s3-us-west-2.amazonaws.com/b49f4724-3b5e-491f-97e3-c7d956a48b90.jpg
     metadata:
-      author: []
+      datePublished: null
+      keywords: []
       related: []
+      author: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      app_links: []
       publisher:
         url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
         name: The-grid-user-content
         favicon: null
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
-      keywords: []
       description: ''
-      app_links: []
-      '@context': 'http://schema.org'
-      '@type': MediaObject
-      datePublished: null
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
