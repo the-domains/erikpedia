@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-05-05T17:29:51.877Z'
-dateModified: '2017-05-05T17:29:50.451Z'
+datePublished: '2017-05-05T17:41:12.354Z'
+dateModified: '2017-05-05T17:41:11.460Z'
 description: >-
   Plastic wrap. It's whole purpose is to keep your food from getting all over
   the place. It doesn't keep it warm. That is what aluminum foil is for.
@@ -19,7 +19,5 @@ _type: Article
 
 ---
 # What is clear, bad for the environment and doesn't keep your food warm?
-
----
 
 Plastic wrap. It's whole purpose is to keep your food from getting all over the place. It doesn't keep it warm. That is what aluminum foil is for.
