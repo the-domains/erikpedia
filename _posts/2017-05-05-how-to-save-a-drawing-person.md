@@ -1,21 +1,21 @@
 ---
 publisher: {}
-datePublished: '2017-05-05T16:54:12.151Z'
-dateModified: '2017-05-05T16:54:08.543Z'
-via: {}
+datePublished: '2017-05-05T17:13:46.128Z'
+dateModified: '2017-05-05T17:13:42.716Z'
 description: Do not get in the water. They will drown you as well.
-title: How to save a drawing person.
+via: {}
 sourcePath: _posts/2017-05-05-how-to-save-a-drawing-person.md
+title: How to save a drowning person.
+hasPage: true
 inFeed: true
 author: []
-hasPage: true
 starred: true
 datePublishedOriginal: '2017-05-05T16:38:32.813Z'
 url: how-to-save-a-drawing-person/index.html
 _type: Article
 
 ---
-# How to save a drawing person.
+# How to save a drowning person.
 
 ---
 
