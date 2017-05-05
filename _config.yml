@@ -63,3 +63,5 @@ content:
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: 'It''s not science, it''s Erikpedia'
+analytics:
+  google: UA-98600165-1
