@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-05-05T17:29:09.482Z'
-dateModified: '2017-05-05T17:29:06.508Z'
+datePublished: '2017-05-05T17:41:27.225Z'
+dateModified: '2017-05-05T17:41:26.376Z'
 description: Do not get in the water. They will drown you as well.
 via: {}
 sourcePath: _posts/2017-05-05-how-to-save-a-drawing-person.md
@@ -16,8 +16,6 @@ _type: Article
 
 ---
 # How to save a drowning person.
-
----
 
 Do not get in the water. They will drown you as well.
 
