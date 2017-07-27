@@ -67,3 +67,4 @@ analytics:
   google: UA-98600165-1
 opengraph:
   appId: '683664391819964'
+  type: website
