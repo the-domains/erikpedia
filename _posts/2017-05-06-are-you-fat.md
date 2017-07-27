@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-07-27T20:09:31.169Z'
-dateModified: '2017-07-27T20:09:30.965Z'
+datePublished: '2017-07-27T20:10:22.804Z'
+dateModified: '2017-07-27T20:10:22.440Z'
 description: Yes. 70% of your body weight is genetics
 via: {}
 sourcePath: _posts/2017-05-06-are-you-fat.md
