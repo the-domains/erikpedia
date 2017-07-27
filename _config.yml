@@ -65,3 +65,5 @@ content:
 description: 'It''s not science, it''s Erikpedia'
 analytics:
   google: UA-98600165-1
+opengraph:
+  appId: '683664391819964'
