@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T18:25:05.862Z'
-dateModified: '2017-08-03T18:25:04.820Z'
+datePublished: '2017-08-03T18:27:48.825Z'
+dateModified: '2017-08-03T18:27:46.097Z'
 via: {}
 description: To be continued…
 title: How to behave in an office that won't irritate your coworkers
@@ -20,5 +20,6 @@ _type: Blurb
 * Open all the individually packed plastic wear sets because you want everyone to have they're own knife.
 * When a coworker brings a dog into the office, treat said dog in a way that would be disconcerting if that dog were a human being.
 * Berate your coworkers for putting guacamole on a burrito because it is gross while squeezing every last drop of ketchup out of a packet onto your burrito.
+* Have an obsession with young boys who carry rings down the aisle durring a wedding. 
 
 To be continued...
