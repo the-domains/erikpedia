@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T18:49:32.099Z'
-dateModified: '2017-08-03T18:49:31.460Z'
+datePublished: '2017-08-03T18:50:22.309Z'
+dateModified: '2017-08-03T18:50:21.867Z'
 via: {}
 description: To be continued…
 title: How to behave in an office that won't irritate your coworkers
@@ -15,6 +15,7 @@ _type: Blurb
 
 ---
 # How to behave in an office that won't irritate your coworkers
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff14ea5e-d1a2-4615-a0f8-ceb69b0f67fb.jpg)
 
 * Discuss how it's not ok to double dip, then proceed to double dip and claim everyone said it was OK
 * Open all the individually packed plastic wear sets because you want everyone to have they're own knife.
