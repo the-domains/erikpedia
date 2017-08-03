@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-07-27T20:11:37.752Z'
-dateModified: '2017-07-27T20:11:37.249Z'
+datePublished: '2017-08-03T18:30:52.197Z'
+dateModified: '2017-08-03T18:30:51.654Z'
 description: >-
   Plastic wrap. It's whole purpose is to keep your food from getting all over
   the place. It doesn't keep it warm. That is what aluminum foil is for.
