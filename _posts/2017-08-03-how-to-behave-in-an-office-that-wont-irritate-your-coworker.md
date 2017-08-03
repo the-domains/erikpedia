@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T18:27:48.825Z'
-dateModified: '2017-08-03T18:27:46.097Z'
+datePublished: '2017-08-03T18:30:52.198Z'
+dateModified: '2017-08-03T18:30:51.654Z'
 via: {}
 description: To be continued…
 title: How to behave in an office that won't irritate your coworkers
