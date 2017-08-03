@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: ''
-dateModified: '2017-08-03T18:30:51.654Z'
-datePublished: '2017-08-03T18:30:52.173Z'
+dateModified: '2017-08-03T18:47:27.046Z'
+datePublished: '2017-08-03T18:47:27.754Z'
 title: 'Salt, is it really that bad for you?'
 author: []
 publisher: {}
