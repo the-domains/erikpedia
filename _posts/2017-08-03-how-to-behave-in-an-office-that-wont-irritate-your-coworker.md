@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T18:50:22.309Z'
-dateModified: '2017-08-03T18:50:21.867Z'
+datePublished: '2017-08-03T18:51:14.247Z'
+dateModified: '2017-08-03T18:51:13.790Z'
 via: {}
 description: To be continued…
 title: How to behave in an office that won't irritate your coworkers
@@ -22,6 +22,6 @@ _type: Blurb
 * When a coworker brings a dog into the office, treat said dog in a way that would be disconcerting if that dog were a human being.
 * Berate your coworkers for putting guacamole on a burrito because it is gross while squeezing every last drop of ketchup out of a packet onto your burrito.
 * Have an obsession with young boys who carry rings down the aisle during a wedding.
-* Eat only cheese pizza, and be pretentious about the state of burnt cheese on top. 
+* Eat only cheese pizza, and act pretentious about the state of burnt cheese on top.
 
 To be continued...
