@@ -1,10 +1,6 @@
 ---
-publisher:
-  url: 'https://i.redd.it'
-  name: Redd
-  favicon: null
-  domain: i.redd.it
-dateModified: '2017-08-03T18:45:39.200Z'
+publisher: {}
+dateModified: '2017-08-03T18:46:53.230Z'
 via: {}
 description: >-
   The miata is brilliant work of engineering. It is small, light, takes corners
@@ -18,7 +14,7 @@ author:
   - name: RegularCars
     url: 'https://www.youtube.com/user/RegularCars'
     avatar: {}
-datePublished: '2017-08-03T18:45:39.807Z'
+datePublished: '2017-08-03T18:46:53.741Z'
 sourcePath: _posts/2017-08-03-miatas-are-sports-cars.md
 hasPage: true
 starred: true
@@ -28,7 +24,7 @@ _type: Article
 
 ---
 # Miatas are sports cars
-![](https://i.redd.it/84gdfwtyx1dz.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ffad9a91-4d13-4268-a96a-f7a50cb2d143.jpg)
 
 The miata is brilliant work of engineering. It is small, light, takes corners fast, and is regarded as one of the most fun cars to drive ever built. This sports car has drawn a following for decades providing the excellent driving experience of a british roadster while being as reliable as any other Japanese car. 
 
