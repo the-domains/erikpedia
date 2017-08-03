@@ -5,8 +5,8 @@ description: >-
   is off, and people think they are weird. But there is one incredible advantage
   a cyclops has that will blow your mind. Read on to learn the surprising fact
   about cyclopes submitted by the renowned Anna M.
-dateModified: '2017-08-03T18:30:51.654Z'
-datePublished: '2017-08-03T18:30:52.196Z'
+dateModified: '2017-08-03T18:47:27.046Z'
+datePublished: '2017-08-03T18:47:27.774Z'
 title: Do Cyclopes Have An Unfair Advantage?
 author: []
 publisher: {}
