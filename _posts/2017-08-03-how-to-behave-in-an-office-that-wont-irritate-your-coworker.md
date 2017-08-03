@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T18:51:14.247Z'
-dateModified: '2017-08-03T18:51:13.790Z'
+datePublished: '2017-08-03T18:52:02.107Z'
+dateModified: '2017-08-03T18:52:01.460Z'
 via: {}
 description: To be continued…
 title: How to behave in an office that won't irritate your coworkers
@@ -9,9 +9,11 @@ sourcePath: >-
   _posts/2017-08-03-how-to-behave-in-an-office-that-wont-irritate-your-coworker.md
 inFeed: true
 author: []
+hasPage: true
 starred: true
 datePublishedOriginal: '2017-08-03T18:20:35.138Z'
-_type: Blurb
+url: how-to-behave-in-an-office-that-wont-irritate-your-coworker/index.html
+_type: Article
 
 ---
 # How to behave in an office that won't irritate your coworkers
