@@ -1,15 +1,15 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T18:52:02.107Z'
-dateModified: '2017-08-03T18:52:01.460Z'
-via: {}
+datePublished: '2017-08-08T18:30:48.372Z'
+dateModified: '2017-08-08T18:30:46.036Z'
 description: To be continued…
-title: How to behave in an office that won't irritate your coworkers
+via: {}
 sourcePath: >-
   _posts/2017-08-03-how-to-behave-in-an-office-that-wont-irritate-your-coworker.md
+title: How to behave in an office that won't irritate your coworkers
+hasPage: true
 inFeed: true
 author: []
-hasPage: true
 starred: true
 datePublishedOriginal: '2017-08-03T18:20:35.138Z'
 url: how-to-behave-in-an-office-that-wont-irritate-your-coworker/index.html
@@ -20,10 +20,12 @@ _type: Article
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff14ea5e-d1a2-4615-a0f8-ceb69b0f67fb.jpg)
 
 * Discuss how it's not ok to double dip, then proceed to double dip and claim everyone said it was OK
-* Open all the individually packed plastic wear sets because you want everyone to have they're own knife.
+* Open all the individually packed plastic wear sets because you want everyone to have their own knife.
 * When a coworker brings a dog into the office, treat said dog in a way that would be disconcerting if that dog were a human being.
 * Berate your coworkers for putting guacamole on a burrito because it is gross while squeezing every last drop of ketchup out of a packet onto your burrito.
 * Have an obsession with young boys who carry rings down the aisle during a wedding.
 * Eat only cheese pizza, and act pretentious about the state of burnt cheese on top.
+* Bring melted chocolates to the office.
+* Be offended when offered ranch dressing to dip your onion rings into.
 
 To be continued...
