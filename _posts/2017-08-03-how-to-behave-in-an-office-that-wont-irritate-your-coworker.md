@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-11T20:30:48.407Z'
-dateModified: '2017-08-11T20:30:44.617Z'
+datePublished: '2017-08-11T20:36:01.971Z'
+dateModified: '2017-08-11T20:35:54.510Z'
 description: To be continued…
 via: {}
 sourcePath: >-
@@ -29,5 +29,6 @@ _type: Article
 * Be offended when offered ranch dressing to dip your onion rings into.
 * Parade around the office with half chewed banana chunks on a white paper napkin and set said napkin on the communal kitchen table. Proceed to discuss how a fellow office mate will enjoy eating these leftovers.
 * Throw plastic eating utensils at your coworkers. It inspires friendly competition.
+* Run around the office shouting bang bang at every coworkers who passes by a dog.
 
 To be continued...
