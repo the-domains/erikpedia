@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-08T18:30:48.372Z'
-dateModified: '2017-08-08T18:30:46.036Z'
+datePublished: '2017-08-11T20:30:48.407Z'
+dateModified: '2017-08-11T20:30:44.617Z'
 description: To be continued…
 via: {}
 sourcePath: >-
@@ -27,5 +27,7 @@ _type: Article
 * Eat only cheese pizza, and act pretentious about the state of burnt cheese on top.
 * Bring melted chocolates to the office.
 * Be offended when offered ranch dressing to dip your onion rings into.
+* Parade around the office with half chewed banana chunks on a white paper napkin and set said napkin on the communal kitchen table. Proceed to discuss how a fellow office mate will enjoy eating these leftovers.
+* Throw plastic eating utensils at your coworkers. It inspires friendly competition.
 
 To be continued...
