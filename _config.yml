@@ -62,7 +62,9 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: 'It''s not science, it''s Erikpedia'
+description: >-
+  It's not science, it's Erikpedia. Spreading information through
+  mis-information.
 analytics:
   google: UA-98600165-1
 opengraph:
