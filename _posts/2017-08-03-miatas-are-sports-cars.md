@@ -1,6 +1,6 @@
 ---
 publisher: {}
-dateModified: '2017-08-03T18:47:27.046Z'
+dateModified: '2017-11-27T23:23:04.300Z'
 via: {}
 description: >-
   The miata is brilliant work of engineering. It is small, light, takes corners
@@ -14,7 +14,7 @@ author:
   - name: RegularCars
     url: 'https://www.youtube.com/user/RegularCars'
     avatar: {}
-datePublished: '2017-08-03T18:47:27.773Z'
+datePublished: '2017-11-27T23:23:05.195Z'
 sourcePath: _posts/2017-08-03-miatas-are-sports-cars.md
 hasPage: true
 starred: true
