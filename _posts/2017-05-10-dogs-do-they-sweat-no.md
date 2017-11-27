@@ -1,13 +1,13 @@
 ---
 publisher: {}
-dateModified: '2017-11-27T23:23:04.300Z'
+dateModified: '2017-11-27T23:24:05.207Z'
 via: {}
 description: ''
 title: 'Dogs, do they sweat? NO!'
 hasPage: true
 inFeed: true
 author: []
-datePublished: '2017-11-27T23:23:05.197Z'
+datePublished: '2017-11-27T23:24:06.108Z'
 sourcePath: _posts/2017-05-10-dogs-do-they-sweat-no.md
 starred: true
 datePublishedOriginal: '2017-05-10T21:03:29.686Z'
