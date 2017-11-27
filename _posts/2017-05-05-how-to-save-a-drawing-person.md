@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-03T18:47:27.772Z'
-dateModified: '2017-08-03T18:47:27.046Z'
+datePublished: '2017-11-27T23:23:05.101Z'
+dateModified: '2017-11-27T23:23:04.300Z'
 description: Do not get in the water. They will drown you as well.
 via: {}
 sourcePath: _posts/2017-05-05-how-to-save-a-drawing-person.md
