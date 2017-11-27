@@ -1,7 +1,7 @@
 ---
 publisher: {}
-datePublished: '2017-08-11T20:36:01.971Z'
-dateModified: '2017-08-11T20:35:54.510Z'
+datePublished: '2017-11-27T23:23:05.185Z'
+dateModified: '2017-11-27T23:23:04.300Z'
 description: To be continued…
 via: {}
 sourcePath: >-
