@@ -1,12 +1,12 @@
 ---
-datePublished: '2017-08-03T18:47:27.769Z'
+datePublished: '2017-11-27T23:23:05.198Z'
 description: >-
   Then I invite you to submit your mesmerizing fact to the collective knowledge
   known as Erikpedia.
 via: {}
 inFeed: false
 publisher: {}
-dateModified: '2017-08-03T18:47:27.046Z'
+dateModified: '2017-11-27T23:23:04.300Z'
 sourcePath: _posts/2017-05-03-think-you-have-a-fact-worthy-of-my-time.md
 title: Think you have a fact worthy of my time?
 hasPage: true
