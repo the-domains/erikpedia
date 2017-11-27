@@ -6,8 +6,8 @@ description: >-
   incredible super food. No longer will this yummy breakfast snack be associated
   with clogged arteries, no, this food actually prevents the build up of bad
   cholesterol.
-dateModified: '2017-11-27T23:23:04.300Z'
-datePublished: '2017-11-27T23:23:05.191Z'
+dateModified: '2017-11-27T23:24:05.207Z'
+datePublished: '2017-11-27T23:24:06.076Z'
 title: Science has discovered a new SUPER FOOD
 author: []
 publisher: {}
