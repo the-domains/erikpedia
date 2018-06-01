@@ -4,9 +4,16 @@
         <description><![CDATA[Erikpedia]]></description>
         <link>http://erikpedia.science/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jun 2018 16:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jun 2018 16:21:54 GMT</lastBuildDate>
         <atom:link href="http://erikpedia.science/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 01 Jun 2018 16:20:00 GMT</pubDate>
+        <pubDate>Fri, 01 Jun 2018 16:21:50 GMT</pubDate>
+        <item>
+            <title><![CDATA[Birds aren't real]]></title>
+            <description><![CDATA[<h1>Birds aren't real</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/970a2c81-f907-4fb6-b25f-9d3365cbaaf6.png">,<p>Read on to learn how you’ve been fooled this whole time. Thanks Nature!</p>]]></description>
+            <link>http://erikpedia.science/birds-arent-real/index.html</link>
+            <guid isPermaLink="false">5a61e1b3-f8ae-4a60-9eba-27ab3a0cc536</guid>
+            <pubDate>Fri, 01 Jun 2018 16:18:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[What Mechanics Don’t Want You To Know About Your Window Wiper Fluid]]></title>
             <description><![CDATA[<h1>What Mechanics Don’t Want You To Know About Your Window Wiper Fluid</h1>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/792f11e9-a21d-43ac-b884-1fae96a45419.jpg">,<p>Do you live in a warm climate? Perhaps near the beach. Are you constantly refilling your window wiper fluid spending tens of dollars on fluid every couple months? Are you irritated by visiting the auto parts store every time you need to top up this blue mystery juice? Well I’ve got the solution for you. Every mechanic hates this trick.</p>]]></description>
@@ -69,13 +76,6 @@
             <link>http://erikpedia.science/what-is-clear-bad-for-the-environment-and-doesnt-keep-your/index.html</link>
             <guid isPermaLink="false">959910dc-68f6-4c58-9c44-892941742e99</guid>
             <pubDate>Fri, 05 May 2017 16:52:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How to save a drowning person.]]></title>
-            <description><![CDATA[<h1>How to save a drowning person.</h1>,<p>Do not get in the water. They will drown you as well.</p>,<p>Use the stick next to the pool and stay on the side.</p>]]></description>
-            <link>http://erikpedia.science/how-to-save-a-drawing-person/index.html</link>
-            <guid isPermaLink="false">4733e2cb-cce5-4778-b906-61940553b5a8</guid>
-            <pubDate>Fri, 05 May 2017 16:38:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
