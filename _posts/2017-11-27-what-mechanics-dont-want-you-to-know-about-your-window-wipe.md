@@ -6,8 +6,8 @@ description: >-
   couple months? Are you irritated by visiting the auto parts store every time
   you need to top up this blue mystery juice? Well I’ve got the solution for
   you. Every mechanic hates this trick.
-dateModified: '2017-11-27T23:24:05.207Z'
-datePublished: '2017-11-27T23:24:06.077Z'
+dateModified: '2018-06-01T16:21:39.044Z'
+datePublished: '2018-06-01T16:21:39.903Z'
 title: What Mechanics Don’t Want You To Know About Your Window Wiper Fluid
 author: []
 publisher: {}
